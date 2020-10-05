@@ -1,11 +1,11 @@
 .. You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-BIG-IP Forward Proxy セットアップガイド
+BIG-IP APM / Duo Security連携セットアップガイド 
 ==============================================
-最終更新日: 2020年7月13日
+最終更新日: 2020年10月5日
 
-本ドキュメントでは、BIG-IPのForward Proxy設定について解説します。
+本ドキュメントでは、BIG-IP APMとDuo Securityを連携する設定について解説します。
 
 はじめに
 ==============================================
