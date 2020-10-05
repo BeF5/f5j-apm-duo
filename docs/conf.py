@@ -5,10 +5,10 @@
 # ------------
 #
 # REQUIRED: Your class/lab name
-classname = "BIG-IP Forward Proxy セットアップガイド"
+classname = "BIG-IP APM / Duo Security 連携 セットアップガイド"
 
 # OPTIONAL: The URL to the GitHub Repository for this class
-github_url = "https://github.com/BeF5/f5j-bigip-fwdproxy"
+github_url = "https://github.com/BeF5/f5j-apm-duo"
 
 git_branch_name = 'master'
 
