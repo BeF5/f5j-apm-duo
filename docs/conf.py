@@ -92,7 +92,7 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = u'BIG-IP Forward Proxy セットアップガイド'
+project = u'BIG-IP APM /Duo Security セットアップガイド'
 copyright = u'F5ネットワークスジャパン合同会社'
 author = u'F5ネットワークスジャパン合同会社'
 
