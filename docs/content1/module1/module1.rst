@@ -1,10 +1,10 @@
-関連するオブジェクト
+認証、認可の流れ
 ===========================
 
-本節では、BIG-IPをForward Proxyで利用する上で必要となる、オブジェクトの概要について紹介します。
+本節では、BIG-IP APMとDuo Securityを連携させた場合の認証、認可の流れを示します。
 詳細は、下図をご参照ください。
 
-.. figure:: images/mod1-1.png
+.. figure:: images/Duo-Auth-rev3.png
    :scale: 40%
    :align: center
 
