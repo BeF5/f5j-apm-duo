@@ -1,14 +1,8 @@
-HTTPプロファイルの種類
+本ドキュメントで説明する構成
 ===========================
 
-プロキシモードを指定するHTTPプロファイルは、下表の通りです。
+本ドキュメントでは、Active Directory 認証とDuo Securityにより2要素認証を行い、SSL-VPN接続する構成を説明します。
 
-.. csv-table::
-   :header: "プロキシモード","説明"
-   :widths: 30, 30
-
-   "Reverse (デフォルト)","リバースプロキシとして利用"
-   "Explicit","明示プロキシとして利用"
-   "Transparent","透過プロキシとして利用"
-
-アウトバウンド (=内部からインターネットへのアクセス)通信処理を行う際には、ExplicitもしくはTransparentを指定したHTTPプロファイルを割り当てます。
+.. figure:: images/SSL-VPN.png
+   :scale: 40%
+   :align: center
