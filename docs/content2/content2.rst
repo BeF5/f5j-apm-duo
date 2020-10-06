@@ -1,7 +1,7 @@
-HTTPS Explicit Forward Proxyの基本設定
+Duo Securityの設定
 ================================================
 
-本章では、BIG-IPをHTTPS用のExplicitプロキシとして構成する手順について、紹介します。
+本章では、BIG-IP APMと連携するためのDuo Securityの設定について紹介します。
 
 
 .. toctree::

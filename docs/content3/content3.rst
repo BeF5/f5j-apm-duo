@@ -1,17 +1,8 @@
-SSL Forward Proxyの基本設定
+BIG-IP APM 2要素認証/SSL-VPN接続設定
 ================================================
 
-本章では、BIG-IPをSSL Forwardプロキシとして構成する手順について、紹介します。SSL Forwardプロキシを構成することで、BIG-IPでSSL通信を可視化することができます。
+本章では、BIG-IP APMにおける、2要素認証の設定とSSL-VPN接続の設定を紹介します。
 
-以下の設定については、前章の手順を参照してください。
-
-- サンプル構成
-- DNSリゾルバの設定
-- TLSトンネルをサポートするHTTP Tunnelの設定
-- HTTPプロファイル設定
-- Explicit Proxy用Virtual Server設定
-
-本章では上記の設定に加えて、以下の内容を紹介します。
 
 .. toctree::
    :titlesonly:
